@@ -33,7 +33,7 @@ export const programming = {
     {
       question: "Which of the following is a programming language?",
       options: ["HTML", "CSS", "JavaScript", "All of the above"],
-      answer: "All of the above",
+      answer: "JavaScript",
     },
     {
       question: "What does SQL stand for?",
